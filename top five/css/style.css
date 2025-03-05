@@ -1,0 +1,36 @@
+body{ 
+    background-color: #d5b893;
+    font-family: 'Madimi One', sans-serif;
+    font-size: 20px;
+    color: #FFFFFF;
+    margin-top: 15cap;
+
+    .container{
+        position:relative;
+        width:900px;
+        height: 50px;
+    }
+    .link{ 
+        position: relative;
+        top: 20px;
+        left: 900px;
+        color: #632024;
+        font-size: 20px;
+        margin-left: 20px;
+    }
+   a{ 
+    color:#632024;
+    top: 20px;
+    font-size: 25px;
+   }
+h2{
+    border: 6cap;
+    font-size: 35px;
+    border-color: #632024;
+    border-style: solid;
+    padding: 60px;
+    margin: 50px;
+    text-align: center;
+    background-color: #000}
+
+}
